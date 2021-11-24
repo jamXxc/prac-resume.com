@@ -1,0 +1,50 @@
+#cv-form {
+    /*display: none;*/
+}
+
+#cv-template {
+    display: none;
+
+
+
+.body {
+    background-color: #0ea19e;
+}
+
+.myimg {
+    /*border: 1px solid red;*/
+    border-radius: 50%;
+    width: 200px;
+    padding: 1px;
+    border: 8px solid transparent;
+    background: linear-gradient(60deg, #96fffd 10%, #0ea19e 100%);
+    margin-bottom: 5%;
+
+}
+
+.background {
+    background-color: #d1fffc;
+}
+
+.form-group {
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+}
+
+.shadow {
+    box-shadow: 20px 20px 20px;
+}
+
+.card {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+}
+
+.col-md-4 {
+    margin-bottom: 4%;
+    margin-top: 3%;
+}
